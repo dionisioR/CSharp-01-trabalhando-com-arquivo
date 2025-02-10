@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CSharp_Aulas\\01-FORMA\u00C7\u00C3O - C# - POO\\CSharp-01-trabalhando-com-arquivos\\ManipulandoArquivos_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62BFB9E2-88B1-47B0-A472-612F1D657B52}|ManipulandoArquivos_01\\ManipulandoArquivos_01.csproj|e:\\csharp_aulas\\01-forma\u00E7\u00E3o - c# - poo\\csharp-01-trabalhando-com-arquivos\\manipulandoarquivos_01\\manipulandoarquivos_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BFB9E2-88B1-47B0-A472-612F1D657B52}|ManipulandoArquivos_01\\ManipulandoArquivos_01.csproj|solutionrelative:manipulandoarquivos_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CSharp_Aulas\\01-FORMA\u00C7\u00C3O - C# - POO\\CSharp-01-trabalhando-com-arquivos\\ManipulandoArquivos_01\\ManipulandoArquivos_01\\Program.cs",
+              "RelativeDocumentMoniker": "ManipulandoArquivos_01\\Program.cs",
+              "ToolTip": "E:\\CSharp_Aulas\\01-FORMA\u00C7\u00C3O - C# - POO\\CSharp-01-trabalhando-com-arquivos\\ManipulandoArquivos_01\\ManipulandoArquivos_01\\Program.cs",
+              "RelativeToolTip": "ManipulandoArquivos_01\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAywCIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T11:19:30.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

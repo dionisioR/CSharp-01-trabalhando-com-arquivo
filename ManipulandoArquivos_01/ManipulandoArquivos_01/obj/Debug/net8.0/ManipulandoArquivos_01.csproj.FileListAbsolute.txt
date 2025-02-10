@@ -1,0 +1,15 @@
+E:\CSharp_Aulas\01-FORMAÇÃO - C# - POO\CSharp-01-trabalhando-com-arquivos\ManipulandoArquivos_01\ManipulandoArquivos_01\bin\Debug\net8.0\ManipulandoArquivos_01.exe
+E:\CSharp_Aulas\01-FORMAÇÃO - C# - POO\CSharp-01-trabalhando-com-arquivos\ManipulandoArquivos_01\ManipulandoArquivos_01\bin\Debug\net8.0\ManipulandoArquivos_01.deps.json
+E:\CSharp_Aulas\01-FORMAÇÃO - C# - POO\CSharp-01-trabalhando-com-arquivos\ManipulandoArquivos_01\ManipulandoArquivos_01\bin\Debug\net8.0\ManipulandoArquivos_01.runtimeconfig.json
+E:\CSharp_Aulas\01-FORMAÇÃO - C# - POO\CSharp-01-trabalhando-com-arquivos\ManipulandoArquivos_01\ManipulandoArquivos_01\bin\Debug\net8.0\ManipulandoArquivos_01.dll
+E:\CSharp_Aulas\01-FORMAÇÃO - C# - POO\CSharp-01-trabalhando-com-arquivos\ManipulandoArquivos_01\ManipulandoArquivos_01\bin\Debug\net8.0\ManipulandoArquivos_01.pdb
+E:\CSharp_Aulas\01-FORMAÇÃO - C# - POO\CSharp-01-trabalhando-com-arquivos\ManipulandoArquivos_01\ManipulandoArquivos_01\obj\Debug\net8.0\ManipulandoArquivos_01.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp_Aulas\01-FORMAÇÃO - C# - POO\CSharp-01-trabalhando-com-arquivos\ManipulandoArquivos_01\ManipulandoArquivos_01\obj\Debug\net8.0\ManipulandoArquivos_01.AssemblyInfoInputs.cache
+E:\CSharp_Aulas\01-FORMAÇÃO - C# - POO\CSharp-01-trabalhando-com-arquivos\ManipulandoArquivos_01\ManipulandoArquivos_01\obj\Debug\net8.0\ManipulandoArquivos_01.AssemblyInfo.cs
+E:\CSharp_Aulas\01-FORMAÇÃO - C# - POO\CSharp-01-trabalhando-com-arquivos\ManipulandoArquivos_01\ManipulandoArquivos_01\obj\Debug\net8.0\ManipulandoArquivos_01.csproj.CoreCompileInputs.cache
+E:\CSharp_Aulas\01-FORMAÇÃO - C# - POO\CSharp-01-trabalhando-com-arquivos\ManipulandoArquivos_01\ManipulandoArquivos_01\obj\Debug\net8.0\ManipulandoArquivos_01.sourcelink.json
+E:\CSharp_Aulas\01-FORMAÇÃO - C# - POO\CSharp-01-trabalhando-com-arquivos\ManipulandoArquivos_01\ManipulandoArquivos_01\obj\Debug\net8.0\ManipulandoArquivos_01.dll
+E:\CSharp_Aulas\01-FORMAÇÃO - C# - POO\CSharp-01-trabalhando-com-arquivos\ManipulandoArquivos_01\ManipulandoArquivos_01\obj\Debug\net8.0\refint\ManipulandoArquivos_01.dll
+E:\CSharp_Aulas\01-FORMAÇÃO - C# - POO\CSharp-01-trabalhando-com-arquivos\ManipulandoArquivos_01\ManipulandoArquivos_01\obj\Debug\net8.0\ManipulandoArquivos_01.pdb
+E:\CSharp_Aulas\01-FORMAÇÃO - C# - POO\CSharp-01-trabalhando-com-arquivos\ManipulandoArquivos_01\ManipulandoArquivos_01\obj\Debug\net8.0\ManipulandoArquivos_01.genruntimeconfig.cache
+E:\CSharp_Aulas\01-FORMAÇÃO - C# - POO\CSharp-01-trabalhando-com-arquivos\ManipulandoArquivos_01\ManipulandoArquivos_01\obj\Debug\net8.0\ref\ManipulandoArquivos_01.dll
